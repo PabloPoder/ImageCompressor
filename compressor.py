@@ -3,7 +3,7 @@ from PIL import Image # pip install Pyllow
 from tqdm import tqdm # progress bar / pip install tqdm
 
 
-# The images will save in the same directory
+# The images will be save in the same directory
 # Example 'C:/Images/Football/'
 imagesFolder = 'C:/Images/'
 # Name of the compressed image
