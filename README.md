@@ -1,2 +1,2 @@
 # ImageCompressor
- Just a image compressor to save disk space
+ Just an image compressor to save disk space
