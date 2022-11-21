@@ -2,7 +2,6 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/PabloPoder/ImageCompressor?logo=github) 
 ![GitHub repo size](https://img.shields.io/github/repo-size/PabloPoder/ImageCompressor?logo=github)
-![GitHub all releases](https://img.shields.io/github/downloads/PabloPoder/ImageCompressor/total?logo=github)
 <a href="https://pillow.readthedocs.io/en/stable/" target="_blank">![PyPI](https://img.shields.io/pypi/v/pillow)</a>
 <a href="https://tqdm.github.io" target="_blank">![PyPI](https://img.shields.io/pypi/v/tqdm?color=purple)</a>
 
