@@ -14,7 +14,7 @@ All images will be saved in the same directory!
  
   imagesFolder = 'C:/Images/'
 
-- Rename the attached name
+- Rename the attached name:
 
   ATTACHED_NAME = "compressed_"
 
